@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'enl-example-ng6-lib',
   template: `
     <p>
-      example-ng6-lib works!
+      Hi Lasitha!
     </p>
   `,
   styles: []
